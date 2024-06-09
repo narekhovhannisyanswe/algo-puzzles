@@ -1,1 +1,1 @@
-# problem-solving
+# algo-puzzles
