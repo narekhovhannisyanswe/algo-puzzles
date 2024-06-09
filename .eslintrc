@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "prettier",
+    "eslint:recommended"
+  ],
+  "env": {
+    "es6": true
+  },
+  "plugins": [
+    "pretter"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "error"
+    ],
+    "object-curly-spacing": [
+      "error",
+      "always"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ]
+  }
+}
